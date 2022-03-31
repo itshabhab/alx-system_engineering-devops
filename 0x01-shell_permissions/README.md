@@ -1,1 +1,1 @@
-This repo is about shell, basic task
+shell permission
