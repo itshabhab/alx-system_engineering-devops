@@ -1,1 +1,1 @@
-This repo is about shell, basic task
+This repo is about shell, redirection tasks
